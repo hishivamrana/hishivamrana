@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/ranashivam/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/shivamrana21">
+  <a href="https://x.com/hishivamrana">
     <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
@@ -63,7 +63,7 @@ I'm not a traditional tech person, but I'm deeply curious about how things are b
 ## 📫 Let's Connect
 
 - 💼 **LinkedIn** → [ranashivam](https://www.linkedin.com/in/ranashivam/)
-- 🐦 **Twitter / X** → [@shivamrana21](https://x.com/shivamrana21)
+- 🐦 **Twitter / X** → [@hishivamrana](https://x.com/hishivamrana)
 - 🌐 **Website** → *(coming soon)*
 
 ---
