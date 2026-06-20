@@ -54,8 +54,8 @@ I'm not a traditional tech person, but I'm deeply curious about how things are b
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamrana010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrana010&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hishivamrana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishivamrana&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
